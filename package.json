@@ -11,7 +11,11 @@
     "build": "npm run lint && npm run compile"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CodinGame/semantic-release-config-github.git"
+  },
   "dependencies": {
     "@codingame/semantic-release-rules": "^1.2.1",
     "@semantic-release/commit-analyzer": "^13.0.1",
