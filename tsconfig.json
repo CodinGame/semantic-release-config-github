@@ -1,0 +1,9 @@
+{
+	"extends": "@codingame/tsconfig",
+	"compilerOptions": {
+		"outDir": "dist",
+		"declaration": true,
+    "skipLibCheck": true
+	},
+	"include": ["src"],
+}
