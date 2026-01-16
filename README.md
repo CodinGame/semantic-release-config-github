@@ -1,0 +1,3 @@
+# @codingame/semantic-release-config-github &middot; [![monthly downloads](https://img.shields.io/npm/dm/@codingame/semantic-release-config-github)](https://www.npmjs.com/package/@codingame/semantic-release-config-github) [![npm version](https://img.shields.io/npm/v/@codingame/semantic-release-config-github.svg?style=flat)](https://www.npmjs.com/package/@codingame/semantic-release-config-github)
+
+Default Github configuration for semantic release at CodinGame
