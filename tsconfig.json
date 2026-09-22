@@ -1,6 +1,7 @@
 {
 	"extends": "@codingame/tsconfig",
 	"compilerOptions": {
+		"rootDir": "src",
 		"outDir": "dist",
 		"declaration": true,
     "skipLibCheck": true
